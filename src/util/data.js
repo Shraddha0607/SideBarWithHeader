@@ -1,4 +1,4 @@
-export const menu = [
+export const menus = [
     {
         id: 1,
         name: "Interview Question"
@@ -17,36 +17,36 @@ export const sideMenuBarOptions = [
     {
         id: 1,
         name: "Courses",
-        image: "",
+        icon: "bi bi-mortarboard",
     },
     {
         id: 2,
         name: "Blog",
-        image: "",
+        icon: "bi bi-newspaper",
     },
     {
         id: 3,
         name: "Playground",
-        image: "",
+        icon: "bi bi-code-slash",
     },
      {
         id: 4,
         name: "Gift a course",
-        image: "",
+        icon: "bi bi-gift",
     },
     {
         id: 5,
         name: "Become Affilate",
-        image: "",
+        icon: "bi bi-currency-dollar",
     },
     {
         id: 6,
         name: "Roadmaps",
-        image: "",
+        icon: "bi bi-map",
     },
      {
         id: 7,
         name: "Need Help",
-        image: "",
+        icon: "bi bi-info-circle",
     }
 ]
